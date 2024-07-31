@@ -13,5 +13,5 @@ The Rule of Five states that, in general, an orally active drug has:<br/>
 ![image](https://github.com/user-attachments/assets/caeae983-9b20-4ccc-b357-6cceff90acb1)
 
 # How to run:<br/>
-First you need to have Anaconda installed. Create your environment, activate it, then install the required libraries and finally run the app with streamlit.<br/><br/>
+First you need to have Anaconda installed. Create your environment(python = 3.7.9), activate it, then install the required libraries (pandas, streamlit, mols2grid, rdkit) and finally run the app with streamlit.<br/><br/>
 ![image](https://github.com/user-attachments/assets/10907e60-3c37-4c4f-be57-c3fa6f27ea01)
